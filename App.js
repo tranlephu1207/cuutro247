@@ -5,7 +5,7 @@
  * @format
  * @flow strict-local
  */
-
+// test Loc
 import React from 'react';
 import type {Node} from 'react';
 import {
